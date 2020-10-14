@@ -1,16 +1,16 @@
 # Student-library
 Library web site that contain books and each book belong to specific category and contain two users, admin and student.
-# User (admin and student) can:
+## User (admin and student) can:
   - Register by username, password, mail, phone no and choose his role.
   - Login by username, password and role.
   -	Update his profile details.
   -	Search for books that satisfy certain criteria.
   - Show list of books.
-# Admin can:
+## Admin can:
   -	Add book (book name, ISBN, Author, Publication Year, Number of copies, Category, Cover).
   -	Update book details.
   -	Show list of late borrowers and send to them reminder mail.
-# Student can:
+## Student can:
   -	Borrow a book by book name and select return date.
   -	Return a book by book name.
   -	Extend borrowing period by book name and select return date
