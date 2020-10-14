@@ -1,0 +1,57 @@
+.logForm{
+    margin:30px 20px 30px 20px ;
+}
+ input,button,select
+{
+    height:30px;
+    margin: 20px;
+    border-radius:5px;
+    background-color:rgb(23, 64, 84,0.93);
+    border-color:rgb(23, 64, 84,0);
+    color:rgb(232, 157, 121);
+    font-weight:bold;
+    font-size:15px;
+  }
+  select{
+      margin-left: 50px;
+  }
+button{ margin:center;
+    margin-left:120px;
+    width:80px;
+    font-weight:bold;
+    font-size:20px;
+}
+select{
+    width:160px;
+    margin-left:45px;
+    font-size:20px;
+}
+span,p{
+    color:rgb(23, 64, 84);
+    font-weight:bold;
+    font-size:20px;
+}
+p
+{
+    font-size:25px;
+    font-family:'Times New Roman';
+}
+
+textarea{
+    margin-left:30px;
+    background-color:rgb(23, 64, 84,0.93);
+    width:300px;
+    font-weight:bold;
+    color:rgb(232, 157, 121);
+}
+
+
+
+img{
+    width:200px;
+    height:100px;
+}
+h3{
+    color:rgb(23, 64, 84); 
+    background-color:rgb(232, 157, 121);
+}

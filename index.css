@@ -1,0 +1,135 @@
+body,html{
+    height: 100%;
+  }
+
+  body{
+    background-image:url(img/23.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .s {
+    margin-top: -10px;
+  }
+
+  .s h2{
+      color:rgb(9, 54, 90);
+      font-size:25px;
+      font-family: 'Times New Roman';
+      margin-left: -45px;
+      }
+  
+  .nav .s , .lin {
+      float: left;
+      width: 30%;
+      margin-left: 250px;
+     color: rgb(22, 84, 95);
+      font-family: Arial;
+   }
+   
+   
+  hr {
+    width: 100%;
+  
+    top: 20px; 
+    border: none; 
+    height: 1.5px; 
+    background:rgb(195, 108, 108); 
+    }
+  
+  .nav .lin{
+      width: 60%;
+      margin-left: -170px;
+      font-size:20px;
+      margin-top: 8px;
+     
+ }
+  
+  .lin  li{
+  display: inline-block;
+  list-style:none ;
+  margin: 10px;
+  margin-left: 50px;
+  }
+  
+  
+  .c{
+    margin:center;
+    margin-top:250px;
+    text-align:center;
+    font-family: Arial;
+  }
+  
+  .c button{
+    height:32px;
+    width: 100px;
+    margin:15px;
+    border-radius:15px;
+    padding-left:3px;
+    background-color:#2E64FE;
+    border-color:#2E64FE;
+    font-size:11px;
+  
+   
+  }
+  
+ 
+    .icon{
+      width:30px;
+    height:20px;
+    margin:10px;
+    margin-top:-5px;
+    margin-bottom: -1px;
+    filter: invert(100%); 
+   -webkit-filter:invert(100%);
+
+      
+    }
+   
+    .category,.bestSeller{
+       
+        margin-top:20px;
+        background-color:rgba(210, 133, 96, 0.63);
+        width:255px;
+        height: 250px;
+        border-radius: 5px;
+    }
+    .category{
+      margin-top:10px;
+    }
+    .bestSeller{
+      height: 220px;
+    }
+    .category h2,.bestSeller h2{
+        color:rgb(23, 64, 84);
+        margin-left: 20px;
+        
+        font-family: 'Times New Roman';
+       
+ }
+    .category li,.bestSeller li{
+        list-style: none;
+    }
+    .category li a,.bestSeller li{
+        color:rgb(44, 61, 95);
+        margin:6px;
+        
+       
+    }
+     #about,.bestSeller{
+      float:left;
+   }
+
+    #about{
+      background-color:rgba(210, 133, 96, 0.63);
+      width:900px;
+      margin-top: -250px;
+      margin-left: 70px;
+     border-radius: 5px;
+      text-align: center;
+     
+    }
+
+    
