@@ -30,5 +30,6 @@ Library web site that contain books and each book belong to specific category an
   7. Run the script http://localhost/Student-library-master
   8. Link for admin Panel : http://localhost/Student-library-master/adminPage.php
   9. Link for student Panel : http://localhost/Student-library-master/studentPage.php
-
+# Technologies used
+-PHP, MySQL, JavaScript, Ajax, HTML, CSS
 
