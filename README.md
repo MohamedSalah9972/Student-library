@@ -1,8 +1,8 @@
 # Student-library
 Library web site that contain books and each book belong to specific category and contain two users, admin and student.
 ## DataBase
+**Download database 'registration' from one of links**
 - https://www.dropbox.com/s/tnm9pyg4i1y9rst/registration.sql?dl=0
-or
 - https://drive.google.com/file/d/1UgxOxUzxVkVhtJUf9xj4kW9KyToE3Zim/view?usp=sharing
 ## Installation
  ### Follow the following steps to install and run the project
