@@ -15,11 +15,11 @@ Library web site that contain books and each book belong to specific category an
   -	Return a book by book name.
   -	Extend borrowing period by book name and select return date
 
-## DataBase
+# DataBase
 **Download database 'registration' from one of links**
 - https://www.dropbox.com/s/tnm9pyg4i1y9rst/registration.sql?dl=0
 - https://drive.google.com/file/d/1UgxOxUzxVkVhtJUf9xj4kW9KyToE3Zim/view?usp=sharing
-## Installation
+# Installation
  ### Follow the following steps to install and run the project
   1. Download the project as zip file
   2. Extract the zip file and copy student-library-master
