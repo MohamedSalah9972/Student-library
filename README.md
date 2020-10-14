@@ -13,4 +13,7 @@ https://drive.google.com/file/d/1UgxOxUzxVkVhtJUf9xj4kW9KyToE3Zim/view?usp=shari
   5. Create a database with name registration
   6. Import registration.sql file
   7. Run the script http://localhost/Student-library-master
+  8. Link for admin Panel : http://localhost/Student-library-master/adminPage.php
+  9. Link for student Panel : http://localhost/Student-library-master/studentPage.php
+
 
