@@ -5,6 +5,7 @@ https://www.dropbox.com/s/tnm9pyg4i1y9rst/registration.sql?dl=0
 or
 https://drive.google.com/file/d/1UgxOxUzxVkVhtJUf9xj4kW9KyToE3Zim/view?usp=sharing
 ## Installation
+Follow the following steps to install and run the project
 ```bash
 1. Download the project as zip file
 2. Extract the zip file and copy student-library-master
