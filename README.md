@@ -1,5 +1,20 @@
 # Student-library
 Library web site that contain books and each book belong to specific category and contain two users, admin and student.
+# User (admin and student) can:
+  -1.	Register by username, password, mail, phone no and choose his role.
+  -2.	Login by username, password and role.
+  -3.	Update his profile details.
+  -4.	Search for books that satisfy certain criteria.
+  -5.	Show list of books.
+# Admin can:
+  -1.	Add book (book name, ISBN, Author, Publication Year, Number of copies, Category, Cover).
+  -2.	Update book details.
+  -3.	Show list of late borrowers and send to them reminder mail.
+# Student can:
+  -1.	Borrow a book by book name and select return date.
+  -2.	Return a book by book name.
+  -3.	Extend borrowing period by book name and select return date
+
 ## DataBase
 **Download database 'registration' from one of links**
 - https://www.dropbox.com/s/tnm9pyg4i1y9rst/registration.sql?dl=0
